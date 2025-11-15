@@ -1,4 +1,4 @@
-# 🪨 Stone Store UI  
+#  Stone Store UI.
 A modern and fully responsive **React + Vite + Tailwind CSS** UI for showcasing stone, marble, tiles, and interior products.  
 This project includes dynamic product cards, hero sections, and stylish best-seller layouts—perfect for eCommerce or interior design websites.
 
