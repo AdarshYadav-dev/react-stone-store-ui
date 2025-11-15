@@ -4,13 +4,9 @@ This project includes dynamic product cards, hero sections, and stylish best-sel
 
 ---
 
-##  Live Demo  
-(You can add your deployed link here later)
-
----
 
 ##  Features  
--  Lightning-fast development with **Vite**  
+-  Lightning-fast development with **React**  
 -  Modern UI styled using **Tailwind CSS**  
 -  Fully **responsive design**  
 -  Product cards with pricing, SKU, brand, and action buttons  
@@ -21,7 +17,6 @@ This project includes dynamic product cards, hero sections, and stylish best-sel
 ---
 
 ##  Tech Stack  
-- **React.js**  
-- **Vite**  
+- **React.js**   
 - **Tailwind CSS**  
 - **JavaScript (ES6+)**
